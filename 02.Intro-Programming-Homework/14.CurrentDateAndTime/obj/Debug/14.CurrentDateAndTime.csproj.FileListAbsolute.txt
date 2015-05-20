@@ -1,0 +1,5 @@
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe.config
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\14.CurrentDateAndTime\bin\Debug\14.CurrentDateAndTime.pdb
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\14.CurrentDateAndTime\obj\Debug\14.CurrentDateAndTime.pdb

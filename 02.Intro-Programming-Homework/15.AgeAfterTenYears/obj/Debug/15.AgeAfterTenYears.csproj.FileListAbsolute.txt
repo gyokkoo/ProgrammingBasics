@@ -1,0 +1,6 @@
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb

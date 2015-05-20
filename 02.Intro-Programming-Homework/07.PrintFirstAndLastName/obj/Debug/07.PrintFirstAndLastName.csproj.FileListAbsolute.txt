@@ -1,0 +1,1 @@
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\07.PrintFirstAndLastName\bin\Debug\07.PrintFirstAndLastName.exe.config

@@ -1,0 +1,5 @@
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe.config
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\10.ReformatCode\bin\Debug\10.ReformatCode.pdb
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.exe
+D:\Softuni\C#\02.Introduction-to-Programming\Intro-Programming-Homework\10.ReformatCode\obj\Debug\10.ReformatCode.pdb

@@ -1,0 +1,31 @@
+Problem 11.Programming Languages
+1. Java
+Java is a class-bassed, object oriented programming language.
+Java and C# are similar programming languages that are statically, strongly,
+and manifestly typed, both are class-based object-oriented, both are designed with 
+semi-interpretation or runtime compilation in mind, both use garbage-collection.
+2. PHP 
+PHP is a widely-used general-purpose scripting language that is especially suited 
+for Web development and can be embedded into HTML. 
+3. c++
+C++ was designed to be a low-level platform-neutral object-oriented programming language. 
+C# was designed to be a somewhat higher-level component-oriented language. C# is a simple, modern, 
+object oriented, and type-safe programming language derived from C and C++. C# 
+is firmly planted in the C and C++ family tree of languages, and will immediately 
+be familiar to C and C++ programmers.
+4. JavaScript
+JavaScript is a client and server-side scripting language developed by Netscape that derives much of 
+its syntax from C. It can be used across multiple web browsers and is considered essential for developing 
+interactive or animated web functions. It is also used in game development and writing desktop applications.
+C# and javascript are two completely different things and they work in completely separate domains.
+Javascript works on the browser and C# works on the server (in asp.net websites/web apps). 
+They work together and neither is better than the other.
+5. C
+C is general-purpose, imperative programming language developed in the early '70s, 
+C is the oldest and most widely used language, providing the building blocks for other popular languages,
+such as C#, Java, JavaScript and Python. It is mostly used for creating operating systems, 
+hardware drivers and embedded devices, for close work with the hardware.
+
+Used: http://mashable.com/2014/01/21/learn-programming-languages/
+https://en.wikipedia.org/ 
+Book “Fundamentals of Computer Programming with C#”

@@ -1,0 +1,7 @@
+C# AND .NET FRAMEWORK
+
+.NET Framework is a software framework developed by Microsoft that runs primarily on Microsoft Windows.
+It includes a large class library known as Framework Class Library (FCL) and provides language 
+interoperability (each language can use code written in other languages) across several programming languages. 
+C# is an elegant and type-safe object-oriented language that enables developers to build a variety of 
+secure and robust applications that run on the .NET Framework. 

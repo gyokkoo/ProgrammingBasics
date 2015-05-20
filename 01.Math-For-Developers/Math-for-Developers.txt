@@ -1,0 +1,41 @@
+My Homework for Math for Developers
+Problem 1.	Some Primes
+Find the 24th, 101st and 251st prime number.
+24th prime number is 89. 
+101st prime number is 547.
+251st primer number is 1597.
+Problem 2.	Some Fibonacci Primes
+Check if the 24th, 101st and 251st prime numbers are part of the base Fibonacci number set. What is their position?
+24th prime = 89 is Fibonacci number, position 11.  F(11)= 89 = 55 + 34 + 21 + 13 + 8 + 5 + 3 + 2 + 1 + 1 .
+101st prime = 547 is not Fibonacci number.
+251st prime = 1597 is Fibonacci number, position 17 F(17) = 1597 = 987 + 610 + 377 + 233 + 144 + 89 + 55 + 34 + 21 + 13 + 8 + 5 + 3 + 2 + 1 + 1.
+If we count F(0) = 0 the answer will be different: 89 is Fibonacci number, position 12; 547 is not Fibonacci number, 1597 is Fibonacci number, position 18. 
+
+Problem 3.	Some Factorials
+Find 100!, 171! and 250! Give all digits.
+100!=93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
+171!=1241018070217667823424840524103103992616605577501693185388951803611996075221691752992751978120487585576464959501670387052809889858690710767331242032218484364310473577889968548278290754541561964852153468318044293239598173696899657235903947616152278558180061176365108428800000000000000000000000000000000000000000
+250!=3232856260909107732320814552024368470994843717673780666747942427112823747555111209488817915371028199450928507353189432926730931712808990822791030279071281921676527240189264733218041186261006832925365133678939089569935713530175040513178760077247933065402339006164825552248819436572586057399222641254832982204849137721776650641276858807153128978777672951913990844377478702589172973255150283241787320658188482062478582659808848825548800000000000000000000000000000000000000000000000000000000000000
+Problem 4.	Calculate Hypotenuse
+You are given three right angled triangles. Find the length of their hypotenuses.
+1.	Catheti: 3 and 4
+2.	Catheti:  10 and 12
+3.	Catheti 100 and 250
+Hypotenuses = sqrt(3*3+4*4)=sqrt(25)=5
+Hypotenuses = sqrt(10*10+12*12)=sqrt(244)=15,62049935181331
+Hypotenuses = sqrt(100*100+250*250)=sqrt(72500)=269,2582403567252
+Pythagorean Theroem
+Problem 5.	Numeral System Conversions
+Convert 1234d to binary and hexadecimal numeral systems.
+Convert 1100101b to decimal and hexadecimal numeral systems.
+Convert ABChex to decimal and binary numeral systems.
+1234d=10011010010b    1234d=4D2hex
+1100101b=101d   1100101b=65hex
+ABChex=2748d      ABChex=101010111100b
+Used windows calculator
+Problem 6.	Least Common Multiple
+Find LCM (1234,  3456).
+Find the prime factorization of 1234 and 3456. 1234 = 2 617; 3456=2*2*2*2*2*2*2*3*3*3.
+We have one common prime factor 2. Now we multiply 1234 and 3456, but without common prime factor. 
+LCM = 2*617*2*2*2*2*2*2*2*3*3*3= 2132352
+If you want to see how it works visit: http://www.leastcommonmultiple.net/lcm-of-1234-and-3456/
