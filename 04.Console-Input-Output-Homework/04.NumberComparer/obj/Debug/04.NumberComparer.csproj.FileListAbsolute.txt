@@ -1,0 +1,5 @@
+D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\04.NumberComparer\bin\Debug\04.NumberComparer.exe.config
+D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\04.NumberComparer\bin\Debug\04.NumberComparer.exe
+D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\04.NumberComparer\bin\Debug\04.NumberComparer.pdb
+D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\04.NumberComparer\obj\Debug\04.NumberComparer.exe
+D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\04.NumberComparer\obj\Debug\04.NumberComparer.pdb
