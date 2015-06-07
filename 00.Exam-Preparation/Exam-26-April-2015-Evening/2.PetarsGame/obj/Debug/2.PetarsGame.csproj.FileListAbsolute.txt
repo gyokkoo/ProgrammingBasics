@@ -1,0 +1,6 @@
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\bin\Debug\2.PetarsGame.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\bin\Debug\2.PetarsGame.exe
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\bin\Debug\2.PetarsGame.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\obj\Debug\2.PetarsGame.exe
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\obj\Debug\2.PetarsGame.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-26-April-2015-Evening\2.PetarsGame\obj\Debug\2.PetarsGame.csprojResolveAssemblyReference.cache
