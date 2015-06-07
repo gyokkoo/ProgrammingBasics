@@ -8,37 +8,17 @@ class PrintCompanyInformation
 {
     static void Main()
     {
-        //input
-        Console.Write("Company name: ");
-        string companyName = Console.ReadLine();
-        Console.Write("Company address: ");
-        string companyAddress = Console.ReadLine();
-        Console.Write("Phone number: ");
-        string phoneNumber = Console.ReadLine();
-        Console.Write("Fax number: ");
-        string faxNumber = Console.ReadLine();
-        Console.Write("Web site: ");
-        string webSite = Console.ReadLine();
-        Console.Write("Manager first name: ");
-        string firstName = Console.ReadLine();
-        Console.Write("Manager last name: ");
-        string lastName = Console.ReadLine();
-        Console.Write("Manager age: ");
-        int age = int.Parse(Console.ReadLine());
-        Console.Write("Manager phone: ");
-        string managerPhone = Console.ReadLine();
-        if (faxNumber == "")   //If faxNumber string is empty
+        string[] companyDetails = new string[] { "name", "address", "phone number", "fax number", "website", "manager's first name", "manager's last name", "manager's age", "manager's phone number" };        
+        string[] companyInformation = new string[companyDetails.Length];
+        for (int i = 0; i < companyInformation.Length; i++)
         {
-            faxNumber = "(no fax)";
-        }  
-        //output
-        Console.WriteLine();
-        Console.WriteLine("{0}", companyName);
-        Console.WriteLine("Address: {0}", companyAddress);
-        Console.WriteLine("Tel. {0}", phoneNumber);
-        Console.WriteLine("Fax: {0}", faxNumber);
-        Console.WriteLine("Web site: {0}", webSite);
-        Console.WriteLine("Manager: {0} {1} (age:{2}, tel. {3})", firstName, lastName, age, managerPhone);
+            Console.WriteLine("Please enter the company's {0}.", companyDetails[i]);
+            companyInformation[i] = Console.ReadLine();
+        }
+        for (int i = 0; i < companyInformation.Length; i++)
+        {
+            Console.WriteLine("Company {0,-25}| {1,-25}", companyDetails[i], companyInformation[i]);
+        }
     }
 }
 

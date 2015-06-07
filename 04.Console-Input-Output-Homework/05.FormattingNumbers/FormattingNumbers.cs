@@ -16,7 +16,7 @@ class FormattingNumbers
 {
     static void Main()
     {
-        Console.Write("Enter integer a (0 >= a <= 500): ");
+        Console.Write("Enter integer a (0 <= a <= 500): ");
         int a = int.Parse(Console.ReadLine());
         Console.Write("Enter floating-point b: ");
         float b = float.Parse(Console.ReadLine());

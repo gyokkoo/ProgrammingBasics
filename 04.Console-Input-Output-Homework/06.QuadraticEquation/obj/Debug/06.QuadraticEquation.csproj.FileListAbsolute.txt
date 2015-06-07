@@ -1,5 +1,0 @@
-D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
-D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
-D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
-D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
-D:\Softuni\C#\04.Console-Input-Output\Console-Input-Output-Homework\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

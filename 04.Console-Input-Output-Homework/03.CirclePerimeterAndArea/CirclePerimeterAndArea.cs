@@ -11,12 +11,12 @@ class CirclePerimeterAndArea
 {
     static void Main()
     {
-        Console.WriteLine("Enter the radius of a circle");
+        Console.WriteLine("Enter radius of a circle");
         Console.Write("r=");
         double radius = double.Parse(Console.ReadLine());
-        double perimeter = 2 * radius * Math.PI; //Math.PI constans is 3.14159265358979
+        double perimeter = 2 * radius * Math.PI;
         double area = radius * radius * Math.PI;
-        Console.WriteLine("perimeter={0:F2}", perimeter); //F2 format the {0} with 2 digits after the decimal point.
-        Console.WriteLine("area={0:F2}", area);
+        Console.WriteLine("The circle's perimeter is {0:F2}", perimeter);
+        Console.WriteLine("The circle's area is {0:F2}", area);
     }
 }

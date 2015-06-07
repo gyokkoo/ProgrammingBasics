@@ -14,12 +14,12 @@ class NumberComparer
 {
     static void Main()
     {
-        Console.Write("Enter a: ");
+        Console.WriteLine("Enter two numbers for compare");
+        Console.Write("First nubmer = ");
         double firstNumber = double.Parse(Console.ReadLine());
-        Console.Write("Etner b: ");
+        Console.Write("Second number = ");
         double secondNumber = double.Parse(Console.ReadLine());
-        //Console.WriteLine("The greater is {0}", Math.Max(firstNumber, secondNumber)); //Using Math.Max Method 
-        Console.WriteLine("The greater is: {0}", firstNumber > secondNumber ? firstNumber : secondNumber); //second solution using ?: Operator
-        //condition ? first_expression : second_expression;
+        double greater = Math.Max(firstNumber, secondNumber);
+        Console.WriteLine("The greater number is: {0}", greater);
     }
 }
