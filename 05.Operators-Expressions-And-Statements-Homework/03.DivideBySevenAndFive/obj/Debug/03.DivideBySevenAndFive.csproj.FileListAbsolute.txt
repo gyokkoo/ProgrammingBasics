@@ -1,0 +1,12 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\bin\Debug\03.DivideBySevenAndFive.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\03.DivideBySevenAndFive\obj\Debug\03.DivideBySevenAndFive.csprojResolveAssemblyReference.cache

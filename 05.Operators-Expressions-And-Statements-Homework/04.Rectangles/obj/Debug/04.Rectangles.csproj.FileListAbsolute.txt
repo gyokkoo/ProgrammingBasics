@@ -1,0 +1,10 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\obj\Debug\04.Rectangles.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\obj\Debug\04.Rectangles.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\obj\Debug\04.Rectangles.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\04.Rectangles\bin\Debug\04.Rectangles.pdb

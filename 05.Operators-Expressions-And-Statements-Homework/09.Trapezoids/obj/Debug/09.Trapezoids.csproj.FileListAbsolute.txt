@@ -1,0 +1,10 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\09.Trapezoids\bin\Debug\09.Trapezoids.pdb

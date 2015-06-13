@@ -1,0 +1,10 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\obj\Debug\06.FouDigitNumber.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\obj\Debug\06.FouDigitNumber.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\obj\Debug\06.FouDigitNumber.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\obj\Debug\06.FouDigitNumber.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\06.FouDigitNumber\bin\Debug\06.FouDigitNumber.pdb

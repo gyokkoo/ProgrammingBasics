@@ -1,0 +1,10 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb

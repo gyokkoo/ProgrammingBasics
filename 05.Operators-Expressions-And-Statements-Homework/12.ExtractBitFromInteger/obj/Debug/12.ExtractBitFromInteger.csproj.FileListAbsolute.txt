@@ -1,0 +1,5 @@
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\12.ExtractBitFromInteger\bin\Debug\12.ExtractBitFromInteger.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\12.ExtractBitFromInteger\obj\Debug\12.ExtractBitFromInteger.pdb

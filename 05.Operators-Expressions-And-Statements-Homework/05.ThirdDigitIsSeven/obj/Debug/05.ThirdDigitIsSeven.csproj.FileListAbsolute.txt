@@ -1,0 +1,12 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.csprojResolveAssemblyReference.cache

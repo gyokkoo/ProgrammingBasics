@@ -1,0 +1,11 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\obj\Debug\10.InsideCircleAndOutsideOfRectangle.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\obj\Debug\10.InsideCircleAndOutsideOfRectangle.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\obj\Debug\10.InsideCircleAndOutsideOfRectangle.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\obj\Debug\10.InsideCircleAndOutsideOfRectangle.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\obj\Debug\10.InsideCircleAndOutsideOfRectangle.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\10.InsideCircleAndOutsideOfRectangle\bin\Debug\10.InsideCircleAndOutsideOfRectangle.pdb

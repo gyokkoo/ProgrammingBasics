@@ -1,0 +1,12 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache

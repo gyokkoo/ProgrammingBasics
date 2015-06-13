@@ -1,0 +1,10 @@
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Softuni\C#\05. Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\obj\Debug\07.PointInACircle.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\obj\Debug\07.PointInACircle.pdb
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.exe
+D:\Softuni\C#\05.Operators-Expressions-and-Statements\Operators-Expressions-And-Statements-HW\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
