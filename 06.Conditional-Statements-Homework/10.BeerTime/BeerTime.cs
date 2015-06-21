@@ -39,6 +39,7 @@ class BeerTime
         else 
         {
             Console.WriteLine("invalid time");
-        } 
+        }
+        Console.ReadKey();
     }
 }

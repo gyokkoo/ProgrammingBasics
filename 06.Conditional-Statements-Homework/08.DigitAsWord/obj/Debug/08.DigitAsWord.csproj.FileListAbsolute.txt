@@ -1,6 +1,0 @@
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.csprojResolveAssemblyReference.cache
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
-D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb
