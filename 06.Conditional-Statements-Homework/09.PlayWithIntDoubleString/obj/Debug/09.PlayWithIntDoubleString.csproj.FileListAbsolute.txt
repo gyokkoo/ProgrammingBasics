@@ -1,0 +1,5 @@
+D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe.config
+D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+D:\Softuni\C#\06.Conditional-Statements\Conditional-Statements-Homework\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb
