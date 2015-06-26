@@ -1,0 +1,1 @@
+D:\Softuni\C#\07.Loops\Loops-Homework\09.MatrixOfNumbers\bin\Debug\09.MatrixOfNumbers.exe.config

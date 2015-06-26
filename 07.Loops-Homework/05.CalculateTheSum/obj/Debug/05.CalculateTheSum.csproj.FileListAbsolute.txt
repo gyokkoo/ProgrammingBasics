@@ -1,0 +1,6 @@
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.exe.config
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.exe
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\bin\Debug\05.CalculateTheSum.pdb
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\obj\Debug\05.CalculateTheSum.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\obj\Debug\05.CalculateTheSum.exe
+D:\Softuni\C#\07.Loops\Loops-Homework\05.CalculateTheSum\obj\Debug\05.CalculateTheSum.pdb

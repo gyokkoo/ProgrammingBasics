@@ -1,0 +1,6 @@
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+D:\Softuni\C#\07.Loops\Loops-Homework\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb
