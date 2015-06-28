@@ -1,0 +1,5 @@
+D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\2.OddOrEvenSum\bin\Debug\2.OddOrEvenSum.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\2.OddOrEvenSum\bin\Debug\2.OddOrEvenSum.exe
+D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\2.OddOrEvenSum\bin\Debug\2.OddOrEvenSum.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\2.OddOrEvenSum\obj\Debug\2.OddOrEvenSum.exe
+D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\2.OddOrEvenSum\obj\Debug\2.OddOrEvenSum.pdb

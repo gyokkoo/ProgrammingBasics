@@ -21,7 +21,7 @@ public class PetarsGame
         }
         string sumString = sum.ToString();
         string digitToReplace;
-        if(sum % 2 == 0)
+        if (sum % 2 == 0)
         {
             digitToReplace = sumString[0].ToString();
         }

@@ -1,0 +1,4 @@
+start
+abcdefg
+meSSage1
+end
