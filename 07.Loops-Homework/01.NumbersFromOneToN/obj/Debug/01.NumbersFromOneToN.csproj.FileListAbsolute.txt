@@ -1,6 +1,0 @@
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe.config
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.exe
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\bin\Debug\01.NumbersFromOneToN.pdb
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.csprojResolveAssemblyReference.cache
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.exe
-D:\Softuni\C#\07.Loops\Loops-Homework\01.NumbersFromOneToN\obj\Debug\01.NumbersFromOneToN.pdb

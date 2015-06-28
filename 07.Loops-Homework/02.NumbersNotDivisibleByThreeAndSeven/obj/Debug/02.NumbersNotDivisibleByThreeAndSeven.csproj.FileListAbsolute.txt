@@ -1,5 +1,0 @@
-D:\Softuni\C#\07.Loops\Loops-Homework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe.config
-D:\Softuni\C#\07.Loops\Loops-Homework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
-D:\Softuni\C#\07.Loops\Loops-Homework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
-D:\Softuni\C#\07.Loops\Loops-Homework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
-D:\Softuni\C#\07.Loops\Loops-Homework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
