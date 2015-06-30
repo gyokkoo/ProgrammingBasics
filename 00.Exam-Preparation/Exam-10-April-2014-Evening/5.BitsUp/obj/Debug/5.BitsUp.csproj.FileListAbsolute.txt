@@ -1,6 +1,0 @@
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\bin\Debug\5.BitsUp.exe.config
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\bin\Debug\5.BitsUp.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\bin\Debug\5.BitsUp.pdb
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\obj\Debug\5.BitsUp.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\obj\Debug\5.BitsUp.pdb
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\5.BitsUp\obj\Debug\5.BitsUp.csprojResolveAssemblyReference.cache

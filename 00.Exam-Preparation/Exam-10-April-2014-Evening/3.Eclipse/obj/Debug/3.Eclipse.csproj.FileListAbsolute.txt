@@ -1,5 +1,0 @@
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\3.Eclipse\bin\Debug\3.Eclipse.exe.config
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\3.Eclipse\bin\Debug\3.Eclipse.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\3.Eclipse\bin\Debug\3.Eclipse.pdb
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\3.Eclipse\obj\Debug\3.Eclipse.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\3.Eclipse\obj\Debug\3.Eclipse.pdb

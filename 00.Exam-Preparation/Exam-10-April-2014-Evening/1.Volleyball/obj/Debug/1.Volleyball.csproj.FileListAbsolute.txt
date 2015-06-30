@@ -1,6 +1,0 @@
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\bin\Debug\1.Volleyball.exe.config
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\bin\Debug\1.Volleyball.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\bin\Debug\1.Volleyball.pdb
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\obj\Debug\1.Volleyball.csprojResolveAssemblyReference.cache
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\obj\Debug\1.Volleyball.exe
-D:\Softuni\C#\Exam-Preparation\Exam-10-April-2014-Evening\1.Volleyball\obj\Debug\1.Volleyball.pdb
