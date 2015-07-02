@@ -6,7 +6,7 @@ Write a method Power() that calculates the power of a given number.
 The input should be read from the console.
 Input	Output		Input	Output
 3   	9         	7.45
-2                   3	    413.493625
+2                         3	    413.493625
 Write an overload method with the same name that receives an additional argument - boolean value roundDown. 
 If roundDown is true, the result should be rounded down to the nearest integer. Otherwise, return the original result. 
  */
