@@ -1,0 +1,5 @@
+D:\Bitwise\BitsExercises\2.ExtractBitFromInteger\bin\Debug\2.ExtractBitFromInteger.exe.config
+D:\Bitwise\BitsExercises\2.ExtractBitFromInteger\bin\Debug\2.ExtractBitFromInteger.exe
+D:\Bitwise\BitsExercises\2.ExtractBitFromInteger\bin\Debug\2.ExtractBitFromInteger.pdb
+D:\Bitwise\BitsExercises\2.ExtractBitFromInteger\obj\Debug\2.ExtractBitFromInteger.exe
+D:\Bitwise\BitsExercises\2.ExtractBitFromInteger\obj\Debug\2.ExtractBitFromInteger.pdb

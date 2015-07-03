@@ -1,0 +1,6 @@
+D:\Bitwise\BitsExercises\1.ExtractBit3\bin\Debug\1.ExtractBit3.exe.config
+D:\Bitwise\BitsExercises\1.ExtractBit3\bin\Debug\1.ExtractBit3.exe
+D:\Bitwise\BitsExercises\1.ExtractBit3\bin\Debug\1.ExtractBit3.pdb
+D:\Bitwise\BitsExercises\1.ExtractBit3\obj\Debug\1.ExtractBit3.csprojResolveAssemblyReference.cache
+D:\Bitwise\BitsExercises\1.ExtractBit3\obj\Debug\1.ExtractBit3.exe
+D:\Bitwise\BitsExercises\1.ExtractBit3\obj\Debug\1.ExtractBit3.pdb

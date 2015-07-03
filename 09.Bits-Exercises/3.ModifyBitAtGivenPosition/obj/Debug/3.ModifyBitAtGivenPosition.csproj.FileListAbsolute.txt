@@ -1,0 +1,5 @@
+D:\Bitwise\BitsExercises\3.ModifyBitAtGivenPosition\bin\Debug\3.ModifyBitAtGivenPosition.exe.config
+D:\Bitwise\BitsExercises\3.ModifyBitAtGivenPosition\bin\Debug\3.ModifyBitAtGivenPosition.exe
+D:\Bitwise\BitsExercises\3.ModifyBitAtGivenPosition\bin\Debug\3.ModifyBitAtGivenPosition.pdb
+D:\Bitwise\BitsExercises\3.ModifyBitAtGivenPosition\obj\Debug\3.ModifyBitAtGivenPosition.exe
+D:\Bitwise\BitsExercises\3.ModifyBitAtGivenPosition\obj\Debug\3.ModifyBitAtGivenPosition.pdb

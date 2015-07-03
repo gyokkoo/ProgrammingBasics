@@ -1,0 +1,6 @@
+D:\Bitwise\BitsExercises\4.BitsExchange\bin\Debug\4.BitsExchange.exe.config
+D:\Bitwise\BitsExercises\4.BitsExchange\bin\Debug\4.BitsExchange.exe
+D:\Bitwise\BitsExercises\4.BitsExchange\bin\Debug\4.BitsExchange.pdb
+D:\Bitwise\BitsExercises\4.BitsExchange\obj\Debug\4.BitsExchange.exe
+D:\Bitwise\BitsExercises\4.BitsExchange\obj\Debug\4.BitsExchange.pdb
+D:\Bitwise\BitsExercises\4.BitsExchange\obj\Debug\4.BitsExchange.csprojResolveAssemblyReference.cache
