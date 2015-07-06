@@ -1,0 +1,6 @@
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\bin\Debug\5.BitsAtCrossroads-2.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\bin\Debug\5.BitsAtCrossroads-2.exe
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\bin\Debug\5.BitsAtCrossroads-2.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\obj\Debug\5.BitsAtCrossroads-2.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\obj\Debug\5.BitsAtCrossroads-2.exe
+D:\Softuni\C#\Exam-Preparation\Exam-26-Apr-2015-Morning\5.BitsAtCrossroads-2\obj\Debug\5.BitsAtCrossroads-2.pdb
