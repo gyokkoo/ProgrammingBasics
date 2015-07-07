@@ -1,0 +1,6 @@
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\bin\Debug\5.BitPaths-2.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\bin\Debug\5.BitPaths-2.exe
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\bin\Debug\5.BitPaths-2.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\obj\Debug\5.BitPaths-2.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\obj\Debug\5.BitPaths-2.exe
+D:\Softuni\C#\Exam-Preparation\Exam-25-July-2014-Morning\5.BitPaths-2\obj\Debug\5.BitPaths-2.pdb
