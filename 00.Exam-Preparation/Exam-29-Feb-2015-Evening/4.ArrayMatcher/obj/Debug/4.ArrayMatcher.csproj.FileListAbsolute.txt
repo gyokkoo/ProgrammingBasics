@@ -1,0 +1,6 @@
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.exe
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\bin\Debug\4.ArrayMatcher.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\obj\Debug\4.ArrayMatcher.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\obj\Debug\4.ArrayMatcher.exe
+D:\Softuni\C#\Exam-Preparation\Exam-29-Feb-2015-Evening\4.ArrayMatcher\obj\Debug\4.ArrayMatcher.pdb
