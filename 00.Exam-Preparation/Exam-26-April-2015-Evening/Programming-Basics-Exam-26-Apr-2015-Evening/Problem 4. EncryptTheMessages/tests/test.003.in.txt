@@ -1,7 +1,0 @@
-START
-testing
-testing
-123
-123
-is this thing on?
-end

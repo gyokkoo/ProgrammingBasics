@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.ExamSchedule", "1.ExamSchedule\1.ExamSchedule.csproj", "{E234B8FA-98AE-48AF-8194-BEDCCC227000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.OddEvenElements", "2.OddEvenElements\2.OddEvenElements.csproj", "{B5FBB21C-9822-42D1-8EA1-CE870971ED1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Arrow", "3.Arrow\3.Arrow.csproj", "{444610B1-E2CE-4A04-B0E8-8B609D19D3AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.FiveSpecialLetters", "4.FiveSpecialLetters\4.FiveSpecialLetters.csproj", "{E16DC548-9BBB-453F-A51E-EF19B9F7D8EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BitRoller", "5.BitRoller\5.BitRoller.csproj", "{AA2CE527-9D78-4235-9FF3-B86D8C54722D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.BitRoller-Bitwise", "5.BitRoller-Bitwise\5.BitRoller-Bitwise.csproj", "{04C99741-596B-4CFD-AD81-F77717C6B494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E234B8FA-98AE-48AF-8194-BEDCCC227000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E234B8FA-98AE-48AF-8194-BEDCCC227000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E234B8FA-98AE-48AF-8194-BEDCCC227000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E234B8FA-98AE-48AF-8194-BEDCCC227000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5FBB21C-9822-42D1-8EA1-CE870971ED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FBB21C-9822-42D1-8EA1-CE870971ED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FBB21C-9822-42D1-8EA1-CE870971ED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FBB21C-9822-42D1-8EA1-CE870971ED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{444610B1-E2CE-4A04-B0E8-8B609D19D3AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{444610B1-E2CE-4A04-B0E8-8B609D19D3AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{444610B1-E2CE-4A04-B0E8-8B609D19D3AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{444610B1-E2CE-4A04-B0E8-8B609D19D3AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16DC548-9BBB-453F-A51E-EF19B9F7D8EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16DC548-9BBB-453F-A51E-EF19B9F7D8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16DC548-9BBB-453F-A51E-EF19B9F7D8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16DC548-9BBB-453F-A51E-EF19B9F7D8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2CE527-9D78-4235-9FF3-B86D8C54722D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2CE527-9D78-4235-9FF3-B86D8C54722D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2CE527-9D78-4235-9FF3-B86D8C54722D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2CE527-9D78-4235-9FF3-B86D8C54722D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04C99741-596B-4CFD-AD81-F77717C6B494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C99741-596B-4CFD-AD81-F77717C6B494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C99741-596B-4CFD-AD81-F77717C6B494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C99741-596B-4CFD-AD81-F77717C6B494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

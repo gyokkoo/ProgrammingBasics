@@ -1,7 +1,0 @@
-start
-
-nnnnn
-aaaaa
-
-
-end

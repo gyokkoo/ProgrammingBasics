@@ -1,7 +1,0 @@
-Normal communication message
-START
-
-Please, try to encrypt the following message!
-
-
-end

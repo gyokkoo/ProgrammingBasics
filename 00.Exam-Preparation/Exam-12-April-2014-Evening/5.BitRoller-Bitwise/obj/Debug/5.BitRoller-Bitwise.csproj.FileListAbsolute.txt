@@ -1,0 +1,6 @@
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\bin\Debug\5.BitRoller-Bitwise.exe.config
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\bin\Debug\5.BitRoller-Bitwise.exe
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\bin\Debug\5.BitRoller-Bitwise.pdb
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\obj\Debug\5.BitRoller-Bitwise.csprojResolveAssemblyReference.cache
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\obj\Debug\5.BitRoller-Bitwise.exe
+D:\Softuni\C#\Exam-Preparation\Exam-12-April-2014-Evening\5.BitRoller-Bitwise\obj\Debug\5.BitRoller-Bitwise.pdb

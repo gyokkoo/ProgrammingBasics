@@ -31,7 +31,7 @@ class HayvanNumbers
                                         for (int i = 5; i <= 9; i++)
                                         {
                                             ghi = g * 100 + h * 10 + i;
-                                            if ((sum == a + b + c + d + e + f + g + h + i) && (diff == ghi - def) && (diff == def - abc) && (abc < def) && (def < ghi))
+                                            if ((sum == a + b + c + d + e + f + g + h + i) && (diff == ghi - def) && (diff == def - abc) && (abc <= def) && (def <= ghi))
                                             {
                                                 Console.WriteLine(abc * 1000000 + def * 1000 + ghi);
                                                 hayvanNumber = false;

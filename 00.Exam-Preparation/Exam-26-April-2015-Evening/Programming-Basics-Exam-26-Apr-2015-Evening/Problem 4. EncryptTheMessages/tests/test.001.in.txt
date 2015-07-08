@@ -1,6 +1,0 @@
-dadada
-123
-START
-Hello!!!
-END
-12345
