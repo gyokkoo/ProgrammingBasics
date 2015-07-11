@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\06.BittRoller\bin\Debug\06.BittRoller.exe.config
+D:\Bitwise\Exams-Bitwise\06.BittRoller\bin\Debug\06.BittRoller.exe
+D:\Bitwise\Exams-Bitwise\06.BittRoller\bin\Debug\06.BittRoller.pdb
+D:\Bitwise\Exams-Bitwise\06.BittRoller\obj\Debug\06.BittRoller.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\06.BittRoller\obj\Debug\06.BittRoller.exe
+D:\Bitwise\Exams-Bitwise\06.BittRoller\obj\Debug\06.BittRoller.pdb

@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\04.KnightPath\bin\Debug\04.KnightPath.exe.config
+D:\Bitwise\Exams-Bitwise\04.KnightPath\bin\Debug\04.KnightPath.exe
+D:\Bitwise\Exams-Bitwise\04.KnightPath\bin\Debug\04.KnightPath.pdb
+D:\Bitwise\Exams-Bitwise\04.KnightPath\obj\Debug\04.KnightPath.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\04.KnightPath\obj\Debug\04.KnightPath.exe
+D:\Bitwise\Exams-Bitwise\04.KnightPath\obj\Debug\04.KnightPath.pdb

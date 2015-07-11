@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\08.GameOfLive-2\bin\Debug\08.GameOfLive-2.exe.config
+D:\Bitwise\Exams-Bitwise\08.GameOfLive-2\bin\Debug\08.GameOfLive-2.exe
+D:\Bitwise\Exams-Bitwise\08.GameOfLive-2\bin\Debug\08.GameOfLive-2.pdb
+D:\Bitwise\Exams-Bitwise\08.GameOfLive-2\obj\Debug\08.GameOfLive-2.exe
+D:\Bitwise\Exams-Bitwise\08.GameOfLive-2\obj\Debug\08.GameOfLive-2.pdb

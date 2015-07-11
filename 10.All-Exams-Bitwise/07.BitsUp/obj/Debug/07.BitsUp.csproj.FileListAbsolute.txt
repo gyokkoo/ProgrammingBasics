@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\07.BitsUp\bin\Debug\07.BitsUp.exe.config
+D:\Bitwise\Exams-Bitwise\07.BitsUp\bin\Debug\07.BitsUp.exe
+D:\Bitwise\Exams-Bitwise\07.BitsUp\bin\Debug\07.BitsUp.pdb
+D:\Bitwise\Exams-Bitwise\07.BitsUp\obj\Debug\07.BitsUp.exe
+D:\Bitwise\Exams-Bitwise\07.BitsUp\obj\Debug\07.BitsUp.pdb

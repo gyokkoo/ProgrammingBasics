@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\16.ChangeEvenBits\bin\Debug\16.ChangeEvenBits.exe.config
+D:\Bitwise\Exams-Bitwise\16.ChangeEvenBits\bin\Debug\16.ChangeEvenBits.exe
+D:\Bitwise\Exams-Bitwise\16.ChangeEvenBits\bin\Debug\16.ChangeEvenBits.pdb
+D:\Bitwise\Exams-Bitwise\16.ChangeEvenBits\obj\Debug\16.ChangeEvenBits.exe
+D:\Bitwise\Exams-Bitwise\16.ChangeEvenBits\obj\Debug\16.ChangeEvenBits.pdb

@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\bin\Debug\01.WeAllLoveBits.exe.config
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\bin\Debug\01.WeAllLoveBits.exe
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\bin\Debug\01.WeAllLoveBits.pdb
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\obj\Debug\01.WeAllLoveBits.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\obj\Debug\01.WeAllLoveBits.exe
+D:\Bitwise\Exams-Bitwise\01.WeAllLoveBits\obj\Debug\01.WeAllLoveBits.pdb

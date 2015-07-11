@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\20.BitKiller\bin\Debug\20.BitKiller.exe.config
+D:\Bitwise\Exams-Bitwise\20.BitKiller\bin\Debug\20.BitKiller.exe
+D:\Bitwise\Exams-Bitwise\20.BitKiller\bin\Debug\20.BitKiller.pdb
+D:\Bitwise\Exams-Bitwise\20.BitKiller\obj\Debug\20.BitKiller.exe
+D:\Bitwise\Exams-Bitwise\20.BitKiller\obj\Debug\20.BitKiller.pdb

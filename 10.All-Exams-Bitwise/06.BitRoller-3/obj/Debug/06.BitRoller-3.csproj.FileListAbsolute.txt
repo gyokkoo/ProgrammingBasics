@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\06.BitRoller-3\bin\Debug\06.BitRoller-3.exe.config
+D:\Bitwise\Exams-Bitwise\06.BitRoller-3\bin\Debug\06.BitRoller-3.exe
+D:\Bitwise\Exams-Bitwise\06.BitRoller-3\bin\Debug\06.BitRoller-3.pdb
+D:\Bitwise\Exams-Bitwise\06.BitRoller-3\obj\Debug\06.BitRoller-3.exe
+D:\Bitwise\Exams-Bitwise\06.BitRoller-3\obj\Debug\06.BitRoller-3.pdb

@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\06.BittRoler-2\bin\Debug\06.BittRoler-2.exe.config
+D:\Bitwise\Exams-Bitwise\06.BittRoler-2\bin\Debug\06.BittRoler-2.exe
+D:\Bitwise\Exams-Bitwise\06.BittRoler-2\bin\Debug\06.BittRoler-2.pdb
+D:\Bitwise\Exams-Bitwise\06.BittRoler-2\obj\Debug\06.BittRoler-2.exe
+D:\Bitwise\Exams-Bitwise\06.BittRoler-2\obj\Debug\06.BittRoler-2.pdb

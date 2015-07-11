@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\02.GameOfBits-2\bin\Debug\02.GameOfBits-2.exe.config
+D:\Bitwise\Exams-Bitwise\02.GameOfBits-2\bin\Debug\02.GameOfBits-2.exe
+D:\Bitwise\Exams-Bitwise\02.GameOfBits-2\bin\Debug\02.GameOfBits-2.pdb
+D:\Bitwise\Exams-Bitwise\02.GameOfBits-2\obj\Debug\02.GameOfBits-2.exe
+D:\Bitwise\Exams-Bitwise\02.GameOfBits-2\obj\Debug\02.GameOfBits-2.pdb

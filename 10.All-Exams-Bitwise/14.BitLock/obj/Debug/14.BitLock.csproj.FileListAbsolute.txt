@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\14.BitLock\bin\Debug\14.BitLock.exe.config
+D:\Bitwise\Exams-Bitwise\14.BitLock\bin\Debug\14.BitLock.exe
+D:\Bitwise\Exams-Bitwise\14.BitLock\bin\Debug\14.BitLock.pdb
+D:\Bitwise\Exams-Bitwise\14.BitLock\obj\Debug\14.BitLock.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\14.BitLock\obj\Debug\14.BitLock.exe
+D:\Bitwise\Exams-Bitwise\14.BitLock\obj\Debug\14.BitLock.pdb

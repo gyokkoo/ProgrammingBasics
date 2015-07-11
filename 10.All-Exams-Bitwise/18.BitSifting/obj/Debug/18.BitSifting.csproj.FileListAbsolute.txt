@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\18.BitSifting\bin\Debug\18.BitSifting.exe.config
+D:\Bitwise\Exams-Bitwise\18.BitSifting\bin\Debug\18.BitSifting.exe
+D:\Bitwise\Exams-Bitwise\18.BitSifting\bin\Debug\18.BitSifting.pdb
+D:\Bitwise\Exams-Bitwise\18.BitSifting\obj\Debug\18.BitSifting.exe
+D:\Bitwise\Exams-Bitwise\18.BitSifting\obj\Debug\18.BitSifting.pdb

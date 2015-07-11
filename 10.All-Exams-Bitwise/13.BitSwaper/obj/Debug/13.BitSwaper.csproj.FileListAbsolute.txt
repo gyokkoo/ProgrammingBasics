@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\bin\Debug\13.BitSwaper.exe.config
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\bin\Debug\13.BitSwaper.exe
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\bin\Debug\13.BitSwaper.pdb
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\obj\Debug\13.BitSwaper.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\obj\Debug\13.BitSwaper.exe
+D:\Bitwise\Exams-Bitwise\13.BitSwaper\obj\Debug\13.BitSwaper.pdb

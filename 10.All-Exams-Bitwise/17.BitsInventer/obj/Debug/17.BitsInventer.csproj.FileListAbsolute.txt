@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\17.BitsInventer\bin\Debug\17.BitsInventer.exe.config
+D:\Bitwise\Exams-Bitwise\17.BitsInventer\bin\Debug\17.BitsInventer.exe
+D:\Bitwise\Exams-Bitwise\17.BitsInventer\bin\Debug\17.BitsInventer.pdb
+D:\Bitwise\Exams-Bitwise\17.BitsInventer\obj\Debug\17.BitsInventer.exe
+D:\Bitwise\Exams-Bitwise\17.BitsInventer\obj\Debug\17.BitsInventer.pdb

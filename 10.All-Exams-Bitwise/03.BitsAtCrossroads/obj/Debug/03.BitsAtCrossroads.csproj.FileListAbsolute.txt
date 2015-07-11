@@ -1,0 +1,6 @@
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\bin\Debug\03.BitsAtCrossroads.exe.config
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\bin\Debug\03.BitsAtCrossroads.exe
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\bin\Debug\03.BitsAtCrossroads.pdb
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\obj\Debug\03.BitsAtCrossroads.csprojResolveAssemblyReference.cache
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\obj\Debug\03.BitsAtCrossroads.exe
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads\obj\Debug\03.BitsAtCrossroads.pdb

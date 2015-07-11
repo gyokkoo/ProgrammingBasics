@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\11.BitFlipper\bin\Debug\11.BitFlipper.exe.config
+D:\Bitwise\Exams-Bitwise\11.BitFlipper\bin\Debug\11.BitFlipper.exe
+D:\Bitwise\Exams-Bitwise\11.BitFlipper\bin\Debug\11.BitFlipper.pdb
+D:\Bitwise\Exams-Bitwise\11.BitFlipper\obj\Debug\11.BitFlipper.exe
+D:\Bitwise\Exams-Bitwise\11.BitFlipper\obj\Debug\11.BitFlipper.pdb

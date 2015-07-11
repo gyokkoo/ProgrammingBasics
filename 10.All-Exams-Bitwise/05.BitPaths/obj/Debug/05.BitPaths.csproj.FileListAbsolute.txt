@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\05.BitPaths\bin\Debug\05.BitPaths.exe.config
+D:\Bitwise\Exams-Bitwise\05.BitPaths\bin\Debug\05.BitPaths.exe
+D:\Bitwise\Exams-Bitwise\05.BitPaths\bin\Debug\05.BitPaths.pdb
+D:\Bitwise\Exams-Bitwise\05.BitPaths\obj\Debug\05.BitPaths.exe
+D:\Bitwise\Exams-Bitwise\05.BitPaths\obj\Debug\05.BitPaths.pdb

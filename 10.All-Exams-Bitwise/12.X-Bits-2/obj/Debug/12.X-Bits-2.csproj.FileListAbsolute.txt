@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\12.X-Bits-2\bin\Debug\12.X-Bits-2.exe.config
+D:\Bitwise\Exams-Bitwise\12.X-Bits-2\bin\Debug\12.X-Bits-2.exe
+D:\Bitwise\Exams-Bitwise\12.X-Bits-2\bin\Debug\12.X-Bits-2.pdb
+D:\Bitwise\Exams-Bitwise\12.X-Bits-2\obj\Debug\12.X-Bits-2.exe
+D:\Bitwise\Exams-Bitwise\12.X-Bits-2\obj\Debug\12.X-Bits-2.pdb

@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\10.PaintBall-2\bin\Debug\10.PaintBall-2.exe.config
+D:\Bitwise\Exams-Bitwise\10.PaintBall-2\bin\Debug\10.PaintBall-2.exe
+D:\Bitwise\Exams-Bitwise\10.PaintBall-2\bin\Debug\10.PaintBall-2.pdb
+D:\Bitwise\Exams-Bitwise\10.PaintBall-2\obj\Debug\10.PaintBall-2.exe
+D:\Bitwise\Exams-Bitwise\10.PaintBall-2\obj\Debug\10.PaintBall-2.pdb

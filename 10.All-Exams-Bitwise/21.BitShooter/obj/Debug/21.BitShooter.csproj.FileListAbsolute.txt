@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\21.BitShooter\bin\Debug\21.BitShooter.exe.config
+D:\Bitwise\Exams-Bitwise\21.BitShooter\bin\Debug\21.BitShooter.exe
+D:\Bitwise\Exams-Bitwise\21.BitShooter\bin\Debug\21.BitShooter.pdb
+D:\Bitwise\Exams-Bitwise\21.BitShooter\obj\Debug\21.BitShooter.exe
+D:\Bitwise\Exams-Bitwise\21.BitShooter\obj\Debug\21.BitShooter.pdb

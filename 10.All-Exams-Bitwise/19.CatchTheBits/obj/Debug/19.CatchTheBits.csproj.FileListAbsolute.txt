@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\19.CatchTheBits\bin\Debug\19.CatchTheBits.exe.config
+D:\Bitwise\Exams-Bitwise\19.CatchTheBits\bin\Debug\19.CatchTheBits.exe
+D:\Bitwise\Exams-Bitwise\19.CatchTheBits\bin\Debug\19.CatchTheBits.pdb
+D:\Bitwise\Exams-Bitwise\19.CatchTheBits\obj\Debug\19.CatchTheBits.exe
+D:\Bitwise\Exams-Bitwise\19.CatchTheBits\obj\Debug\19.CatchTheBits.pdb

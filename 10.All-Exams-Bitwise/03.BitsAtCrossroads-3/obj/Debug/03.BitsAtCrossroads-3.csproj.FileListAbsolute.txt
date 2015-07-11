@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads-3\bin\Debug\03.BitsAtCrossroads-3.exe.config
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads-3\bin\Debug\03.BitsAtCrossroads-3.exe
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads-3\bin\Debug\03.BitsAtCrossroads-3.pdb
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads-3\obj\Debug\03.BitsAtCrossroads-3.exe
+D:\Bitwise\Exams-Bitwise\03.BitsAtCrossroads-3\obj\Debug\03.BitsAtCrossroads-3.pdb

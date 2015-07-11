@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\09.BitBuilder\bin\Debug\09.BitBuilder.exe.config
+D:\Bitwise\Exams-Bitwise\09.BitBuilder\bin\Debug\09.BitBuilder.exe
+D:\Bitwise\Exams-Bitwise\09.BitBuilder\bin\Debug\09.BitBuilder.pdb
+D:\Bitwise\Exams-Bitwise\09.BitBuilder\obj\Debug\09.BitBuilder.exe
+D:\Bitwise\Exams-Bitwise\09.BitBuilder\obj\Debug\09.BitBuilder.pdb

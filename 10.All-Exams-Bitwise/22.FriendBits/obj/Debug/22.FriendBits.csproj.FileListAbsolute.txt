@@ -1,0 +1,5 @@
+D:\Bitwise\Exams-Bitwise\22.FriendBits\bin\Debug\22.FriendBits.exe.config
+D:\Bitwise\Exams-Bitwise\22.FriendBits\bin\Debug\22.FriendBits.exe
+D:\Bitwise\Exams-Bitwise\22.FriendBits\bin\Debug\22.FriendBits.pdb
+D:\Bitwise\Exams-Bitwise\22.FriendBits\obj\Debug\22.FriendBits.exe
+D:\Bitwise\Exams-Bitwise\22.FriendBits\obj\Debug\22.FriendBits.pdb
