@@ -57,7 +57,7 @@ Console.WriteLine(n); // 1107312677
 // 01000010 00000000 01000000 00100101
 // 3,4,5 bits is exchanged with 24,25,26 bits!
 -------------------------------------------------------------
-Exchange bits {p, p+1, …, p+k-1} with bits {q, q+1, …, q+k-1}
+Exchange bits {p, p+1, â€¦, p+k-1} with bits {q, q+1, â€¦, q+k-1}
 for (int i = p; i <= p + k - 1; i++)
 {
 	uint mask = 1; // 0111
@@ -70,7 +70,7 @@ for (int i = p; i <= p + k - 1; i++)
 	q++;
 }
 -------------------------------------------------------------
-How to reverse number in binary system (îãëåäàëíî)
+How to reverse number in binary system (Ã®Ã£Ã«Ã¥Ã¤Ã Ã«Ã­Ã®)
 int num = 248;              // 1111 1000
 int result = 0; 		
 while (num > 0)
@@ -82,7 +82,7 @@ while (num > 0)
 }
 Console.WriteLine(result);   // 0001 1111
 //result = 31;
-.................... Other way:...............................
+..................... Other way:..............................
 int num = 248;
 int result = 0;
 while (num > 0)
