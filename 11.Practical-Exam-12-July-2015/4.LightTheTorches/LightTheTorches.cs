@@ -1,83 +1,79 @@
-﻿using System;
+using System;
 
 class LightTheTorches
 {
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
-        string lD = Console.ReadLine();
-        char[] ch = lD.ToCharArray();
-        char[] board = new char[n];
-
-        int currentPos = n / 2;
-        int moving = 0;
-
-        for (int i = 0; i < n; i++)
+        string ld = Console.ReadLine();
+        char[] rooms = new char[n];
+        for (int i = 0, j = 0; i < n; i++)
         {
-            board[i] = ch[i % ch.Length];
-        }
-        string input = Console.ReadLine();
-
-        while (input != "END")
-        {
-            string[] inputArray = input.Split(' ');
-            string command = inputArray[0];
-            int roomsMoving = int.Parse(inputArray[1]);
-            if (command == "LEFT")
+            rooms[i] = ld[j];
+            j++;
+            if (j >= ld.Length)
             {
-                for (int i = 0; i < board.Length; i++)
+                j = 0;
+            }
+        }
+        int startPos = n / 2;
+        string command = Console.ReadLine();
+        while (command != "END")
+        {
+            string[] currCommand = command.Split();
+            int move = int.Parse(currCommand[1]);
+           
+            if (currCommand[0] == "LEFT")
+            {
+                move = startPos - move - 1;
+                if (move < 0)
                 {
-                    moving = currentPos - roomsMoving > 0 ? currentPos - roomsMoving : 1;
-                    if (i == (moving - 1))
-                    {
-                        if (board[i] == 'L')
-                        {
-                            board[i] = 'D';
-                        }
-                        else if (board[i] == 'D')
-                        {
-                            board[i] = 'L';
-                        }
-                    }
+                    move = 0;
                 }
-                currentPos = moving - 1;
-            }
-            else if (command == "RIGHT")
-            {
-
-                for (int i = 0; i < board.Length; i++)
+                if (move != startPos)
                 {
-                    moving = currentPos + roomsMoving < board.Length ? currentPos + roomsMoving : board.Length - 1;
-                    if (i == (moving + 1))
+                    if (rooms[move] == 'L')
                     {
-                        if (board[i] == 'L')
-                        {
-                            board[i] = 'D';
-                        }
-                        else if (board[i] == 'D')
-                        {
-                            board[i] = 'L';
-                        }
+                        rooms[move] = 'D';
                     }
+                    else
+                        {
+                        rooms[move] = 'L';
+                        }
                 }
-                currentPos = moving + 1;
             }
-            input = Console.ReadLine();
-        }
-        //foreach(char symbol in board)
-        //{
-        //    Console.Write(symbol);
-        //}
-        //Console.WriteLine();
-        int darkRoomsCounter = 0;
-        for (int i = 0; i < board.Length; i++)
-        {
-            if (board[i] == 'D')
+            if (currCommand[0] == "RIGHT")
             {
-                darkRoomsCounter++;
+                move = startPos + move + 1;
+                if (move >= rooms.Length)
+                {
+                    move = rooms.Length - 1;
+                }
+                if (move != startPos)
+                {
+                    if (rooms[move] == 'L')
+                    {
+                        rooms[move] = 'D';
+                    }
+                    else
+                        {
+                        rooms[move] = 'L';
+                        }
+                }
             }
+            startPos = move;
+            command = Console.ReadLine();    
         }
-        long prays = darkRoomsCounter * 68L;
+        int count = 0;
+        for (int i = 0; i < rooms.Length; i++)
+        {
+            if (rooms[i] == 'D')
+            {
+                count++;
+            }    
+        }
+        int prays = 'D' * count;
+       
         Console.WriteLine(prays);
     }
 }
