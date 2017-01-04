@@ -1,4 +1,6 @@
-#ProgrammingBasics
+### My first steps in coding learning C# languange 
+##### May - July  2015 
+
 Softuni C# Basics Varna Course
 
-Homeworks and exam preparations.
+Source code of homeworks, exercises and exam preparations.
